@@ -5,7 +5,7 @@ I create a homelab to simulate the use of Active Directory in the real world for
 
 ## Creating Organizational Units (OU)
 - A Organization Unit (OU) is container which contains different kind of objects like users, computers, groups, domain, etc.
-- In this step I created 3 OUs (USA, Europe, and Asia) 
+- In this step, I created 3 OUs (USA, Europe, and Asia) 
 <img width="1025" height="726" alt="Screenshot_2025-11-06_at_10 42 32_AM" src="https://github.com/user-attachments/assets/b494d789-750f-4204-a7f7-1fb757013a54" />
 <img width="1023" height="728" alt="Screenshot_2025-11-06_at_10 46 02_AM" src="https://github.com/user-attachments/assets/9d4d5b5e-e95e-4fc5-9c0e-f8bb2543f92a" />
 
