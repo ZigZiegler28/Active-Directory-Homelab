@@ -53,3 +53,5 @@ I create a homelab to simulate the use of Active Directory in the real world for
 <img width="1025" height="726" alt="Screenshot_2025-11-06_at_1 18 00_PM" src="https://github.com/user-attachments/assets/5695dc59-7061-4397-81d8-9481bbaafce1" />
 <img width="1024" height="730" alt="Screenshot_2025-11-06_at_1 18 28_PM" src="https://github.com/user-attachments/assets/464c1e9e-b4bf-4931-9936-3707c78b33d1" />
 
+## Configurating Windows Server
+
