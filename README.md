@@ -1,4 +1,4 @@
-# Azure Windows 2025 Active-Directory-Homelab
+# Windows Active-Directory-Homelab
 
 ## Summary
 I create a homelab to simulate the use of Active Directory in the real world for learning purposes. The setup included creating a domain controller (DC) running Window servers which allows for the management of authentication, users, groups, and policies across a network.
