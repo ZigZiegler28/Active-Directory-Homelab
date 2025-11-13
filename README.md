@@ -30,7 +30,7 @@ I create a homelab to simulate the use of Active Directory in the real world for
 ## Creating a Password Policy GPO
 - Password Polciy GPO creates policies requirements when a password is created.
 <img width="1915" height="845" alt="Screenshot_2025-11-07_at_3 58 47_PM" src="https://github.com/user-attachments/assets/333a34e3-13c6-4153-bea9-8407e5337ec0" />
-<img width="1919" height="846" alt="Screenshot_2025-11-07_at_4 00 36_PM" src="https://github.com/user-attachments/assets/51da636a-30a8-4585-b404-3d9284156c4c" />
+<img width="1058" height="759" alt="Screenshot 2025-11-12 at 9 38 04 PM" src="https://github.com/user-attachments/assets/ed1f178d-a0e9-486d-a58d-bb61a0675bb2" />
 
 ## Creating a Drive Mapping GPO
 - A Drive map GPO is what network drives a user can use when they login.
