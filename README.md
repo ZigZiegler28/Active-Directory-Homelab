@@ -57,3 +57,9 @@ I create a homelab to simulate the use of Active Directory in the real world for
 - This account lockout policy prevent the likely hood of a brute force attack.
 <img width="1914" height="842" alt="Screenshot_2025-11-07_at_4 21 55_PM" src="https://github.com/user-attachments/assets/11996319-c026-47e2-9365-8e1338cbf18c" />
 <img width="1917" height="849" alt="Screenshot_2025-11-07_at_4 22 34_PM" src="https://github.com/user-attachments/assets/cafabaad-3fea-4daf-9d59-ee1a1db3ed2e" />
+
+## Creating a Static IP
+- Change the Domain Controller's IP address to a static IP
+- Change DNS Server to loopback and google DNS
+<img width="1023" height="725" alt="Screenshot 2025-11-14 at 12 47 12 PM" src="https://github.com/user-attachments/assets/26ab739c-3ec3-4141-85ad-404b6e39be32" />
+<img width="1021" height="726" alt="Screenshot 2025-11-14 at 12 48 30 PM" src="https://github.com/user-attachments/assets/de6c4fd8-e11f-45d4-837b-e9ba1aced0c9" />
