@@ -81,4 +81,5 @@ I create a homelab to simulate the use of Active Directory in the real world for
 <img width="1019" height="725" alt="Screenshot 2025-11-14 at 1 05 40 PM" src="https://github.com/user-attachments/assets/000d8671-22ff-4e83-a918-e59ab05225be" />
 <img width="1019" height="723" alt="Screenshot 2025-11-14 at 1 05 53 PM" src="https://github.com/user-attachments/assets/86701e02-3184-491a-ba22-7da1199a30a2" />
 <img width="1020" height="725" alt="Screenshot 2025-11-14 at 1 06 05 PM" src="https://github.com/user-attachments/assets/9c0c0cae-13a7-43ab-93ec-a7b7b04ae1d7" />
-<img width="1018" height="716" alt="Screenshot 2025-11-14 at 1 10 54 PM" src="https://github.com/user-attachments/assets/65451147-89bb-4904-a6ff-82b591ec3454" />
+<img width="1018" height="710" alt="Screenshot 2025-11-14 at 1 14 46 PM" src="https://github.com/user-attachments/assets/40350728-4b6e-4cee-a03d-b1d5f53e60a2" />
+
