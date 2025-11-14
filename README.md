@@ -83,3 +83,11 @@ I create a homelab to simulate the use of Active Directory in the real world for
 <img width="1020" height="725" alt="Screenshot 2025-11-14 at 1 06 05 PM" src="https://github.com/user-attachments/assets/9c0c0cae-13a7-43ab-93ec-a7b7b04ae1d7" />
 <img width="1018" height="710" alt="Screenshot 2025-11-14 at 1 14 46 PM" src="https://github.com/user-attachments/assets/40350728-4b6e-4cee-a03d-b1d5f53e60a2" />
 
+## Creating a Network Drive GPO
+<img width="1023" height="727" alt="Screenshot 2025-11-14 at 1 18 34 PM" src="https://github.com/user-attachments/assets/2a44a2e9-3262-444c-8f93-46f65edfde5e" />
+<img width="1024" height="724" alt="Screenshot 2025-11-14 at 1 21 32 PM" src="https://github.com/user-attachments/assets/fc6ea57d-7a17-4755-af78-8a316d39d621" />
+- Place it in the User OU in USA OU so the users will be able to use it
+<img width="1018" height="724" alt="Screenshot 2025-11-14 at 1 22 27 PM" src="https://github.com/user-attachments/assets/3aa90b29-6e04-4b2a-a89e-7cfbe42b9b47" />
+- Get GPOs to apply right away instead of waiting
+<img width="1018" height="713" alt="Screenshot 2025-11-14 at 1 24 05 PM" src="https://github.com/user-attachments/assets/239f3902-b399-49c1-bca0-9fb500fa4ea2" />
+<img width="1019" height="713" alt="Screenshot 2025-11-14 at 1 25 27 PM" src="https://github.com/user-attachments/assets/bfce5d80-d6d5-4e98-8ee0-24e77c1447f1" />
