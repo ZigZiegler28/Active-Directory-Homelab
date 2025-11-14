@@ -72,4 +72,5 @@ I create a homelab to simulate the use of Active Directory in the real world for
 
 ## Change client machine name and add client machine to the domain
 <img width="1023" height="715" alt="Screenshot 2025-11-14 at 12 58 39 PM" src="https://github.com/user-attachments/assets/7bf91917-0623-4802-b539-2e57537aafed" />
+<img width="1011" height="751" alt="Screenshot 2025-11-14 at 1 01 09 PM" src="https://github.com/user-attachments/assets/87c54a25-c19f-4ea5-abc0-09eab2bbe996" />
 
