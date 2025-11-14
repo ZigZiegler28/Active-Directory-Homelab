@@ -63,8 +63,10 @@ I create a homelab to simulate the use of Active Directory in the real world for
 - Change DNS Server to loopback and google DNS
 <img width="1023" height="725" alt="Screenshot 2025-11-14 at 12 47 12 PM" src="https://github.com/user-attachments/assets/26ab739c-3ec3-4141-85ad-404b6e39be32" />
 <img width="1021" height="726" alt="Screenshot 2025-11-14 at 12 48 30 PM" src="https://github.com/user-attachments/assets/de6c4fd8-e11f-45d4-837b-e9ba1aced0c9" />
+
 ## Configure Client Machine
 <img width="1020" height="718" alt="Screenshot 2025-11-14 at 12 54 47 PM" src="https://github.com/user-attachments/assets/271e6b22-5736-4b55-8edb-fbdd9b3fbae0" />
+
 ## Ensure DNS Server is working
 <img width="1021" height="718" alt="Screenshot 2025-11-14 at 12 56 12 PM" src="https://github.com/user-attachments/assets/74467286-bf8c-4985-ae4e-cf05a931e84a" />
 
