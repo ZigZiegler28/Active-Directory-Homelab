@@ -74,3 +74,11 @@ I create a homelab to simulate the use of Active Directory in the real world for
 <img width="1023" height="715" alt="Screenshot 2025-11-14 at 12 58 39 PM" src="https://github.com/user-attachments/assets/7bf91917-0623-4802-b539-2e57537aafed" />
 <img width="1011" height="751" alt="Screenshot 2025-11-14 at 1 01 09 PM" src="https://github.com/user-attachments/assets/87c54a25-c19f-4ea5-abc0-09eab2bbe996" />
 
+## Creating a shared folder
+<img width="1018" height="725" alt="Screenshot 2025-11-14 at 1 03 30 PM" src="https://github.com/user-attachments/assets/ab44f1ad-3701-4aaf-affd-84be50e5f3b9" />
+<img width="1016" height="726" alt="Screenshot 2025-11-14 at 1 04 37 PM" src="https://github.com/user-attachments/assets/ab3231e1-d300-4396-992c-3e82bbbefbd1" />
+<img width="1019" height="725" alt="Screenshot 2025-11-14 at 1 04 47 PM" src="https://github.com/user-attachments/assets/273785bd-b504-492f-a701-1ca0af123136" />
+<img width="1019" height="725" alt="Screenshot 2025-11-14 at 1 05 40 PM" src="https://github.com/user-attachments/assets/000d8671-22ff-4e83-a918-e59ab05225be" />
+<img width="1019" height="723" alt="Screenshot 2025-11-14 at 1 05 53 PM" src="https://github.com/user-attachments/assets/86701e02-3184-491a-ba22-7da1199a30a2" />
+<img width="1020" height="725" alt="Screenshot 2025-11-14 at 1 06 05 PM" src="https://github.com/user-attachments/assets/9c0c0cae-13a7-43ab-93ec-a7b7b04ae1d7" />
+<img width="1018" height="716" alt="Screenshot 2025-11-14 at 1 10 54 PM" src="https://github.com/user-attachments/assets/65451147-89bb-4904-a6ff-82b591ec3454" />
